@@ -1,2 +1,4 @@
 
-I moddifcated this file 
+
+This file is a example for conflicts 
+

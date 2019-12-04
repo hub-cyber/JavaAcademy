@@ -44,11 +44,11 @@ Write a Java program that uses for loop to produce the output shown below (note 
 
 The program must ask the user how many rows to print out between 1 and 10 (5 in this example).
 
-Excercise
+Excercise(NumerosMultiplos)
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. 
 The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 100.
 
-Excercise
+Excercise(doWhileSumNumbers)
 Write a do-while loop that asks the user to enter two numbers. The numbers should be added and the sum displayed. 
 The loop should ask the user whether he or she wishes to perform the operation again. If so, the loop should repeat; 
 otherwise it should terminate. 

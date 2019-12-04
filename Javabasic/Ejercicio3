@@ -1,9 +1,0 @@
-public class Ejercicio3{
-	public static void main(String[] args){
-		Int Number= Integer.parseInt(args[0]);
-		if((Number%2==0)&& (Number >0))
-			System.out.print("Es par y es Un numero positivo");
-		else 
-			System.out.print("Es inpar ");
-	}
-}

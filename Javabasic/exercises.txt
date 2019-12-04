@@ -1,0 +1,77 @@
+﻿Exercise (Mistiposdedatos)
+Write a Java program to declare an integer variables, one float variable, and one string variable 
+and assign 10, 12.5, and "Java programming" to them respectively. Then display their values on the screen.
+
+Excercise(ConcatenarCadena)
+Given two strings, a and b, return the result of putting them together in the order abba, e.g. 
+"Hi" and "Bye" returns "HiByeByeHi".
+
+makeAbba("Hi", "Bye") → "HiByeByeHi"
+makeAbba("Yo", "Alice") → "YoAliceAliceYo"
+makeAbba("What", "Up") → "WhatUpUpWhat"
+
+Exercise (PareImpar)
+Write a Java program to determine whether an input number is an even number.
+
+Excercise(Calificaciones  Y  CalificacionesConSwitch)
+Create a JAVA program to display the "text mark" corresponding to a certain "numerical mark", using the following equivalence: 
+
+9,10 = Sobresaliente 
+7,8 = Notable 
+6 = Bien 
+5 = Aprobado 
+0-4 = Suspenso 
+
+Your program must ask the user for a numerical mark and display the corresponding text mark. 
+You must do it twice: first using "if" and then using "switch".
+
+Excercise(TwoStrings)
+Given a string, return the string made of its first two chars, so the String "Hello" yields "He". 
+If the string is shorter than length 2, return whatever there is, so "X" yields "X", and the empty string "" 
+yields the empty string "". Note that str.length() returns the length of a string.
+
+Exercise(Operations)
+Write Java program to allow the user to input two integer values and then the program prints the results of adding, 
+subtracting, multiplying, and dividing among the two values.
+
+Exercise (Pino)
+Write a Java program that uses for loop to produce the output shown below (note that there are no spaces in between stars). 
+*****
+****
+***
+**
+*
+
+The program must ask the user how many rows to print out between 1 and 10 (5 in this example).
+
+Excercise
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. 
+The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 100.
+
+Excercise
+Write a do-while loop that asks the user to enter two numbers. The numbers should be added and the sum displayed. 
+The loop should ask the user whether he or she wishes to perform the operation again. If so, the loop should repeat; 
+otherwise it should terminate. 
+
+>>>> Extras
+
+Exercise 
+Write Java program to allow the user to input his/her age. Then the program will show if the person is eligible to vote. 
+A person who is eligible to vote must be older than or equal to 18 years old.
+
+Excercise
+Check which is the gratest number among three integer numbers
+
+Excercise
+Given 2 int arrays, a and b, each length 3, return a new array length 2 containing their middle elements.
+
+middleWay([1, 2, 3], [4, 5, 6]) → [2, 5]
+middleWay([7, 7, 7], [3, 8, 0]) → [7, 8]
+middleWay([5, 2, 9], [1, 4, 5]) → [2, 4]
+
+Excercise
+Create a basic class with a method, a constructor, an instance variable and how to instantiate it.
+
+>>>> Practices
+
+https://www.w3schools.com/java/exercise.asp?filename=exercise_arrays6

@@ -1,3 +1,5 @@
+package com.softtek.java.academy.exercises;
+
 import java.util.Scanner;
 
 public class Operations{
@@ -15,7 +17,7 @@ public class Operations{
 		sum = Numero1+Numero2;
 		System.out.println("El resultado de la suma es: "+sum);
 		//resta
-		resta = Numero1-Numero2;
+		resta = Numero2-Numero1;
 		System.out.println("El resultado de la resta es: "+resta);
 		//multiplicacion
 		multiplicacion = Numero1*Numero2;

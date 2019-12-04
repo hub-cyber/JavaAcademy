@@ -9,8 +9,8 @@ public class MisTiposdeDatos{
 	boolean tieneCredencial = false;
 	boolean puedoVotar = ((edad >=18) && tieneCredencial );
 	
-	System.out.println("Mi Nombre es: "+nombre+"\n" + "Mi edad es: "+ "\n"+edad+ "Mi peso es: "+peso+ "\n" + "Y mi valor es:"+
-	precio+ "/n"+esVip+ "/n"+tieneCredencial+ "/n"+puedoVotar);
+	System.out.println("Mi Nombre es: "+nombre+"\n" + "Mi edad es: "+edad+ "\n" + "Mi peso es: "+peso+ "\n" + "Y mi precio es:"+
+	precio+ "\n"+"Soy VIP?: "+esVip+ "\n"+"Tengo Credencial: "+tieneCredencial+ "\n"+"Puedo Votar: "+puedoVotar);
 	
 	}
 

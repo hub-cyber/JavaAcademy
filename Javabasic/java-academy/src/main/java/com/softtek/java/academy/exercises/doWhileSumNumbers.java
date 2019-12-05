@@ -1,3 +1,4 @@
+package com.softtek.java.academy.exercises;
 import java.util.Scanner;
 public class doWhileSumNumbers{
     public static void main(String[]args){

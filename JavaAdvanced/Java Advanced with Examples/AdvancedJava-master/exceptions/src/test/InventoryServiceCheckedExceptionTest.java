@@ -19,7 +19,6 @@ public class InventoryServiceCheckedExceptionTest {
         //set request number to 100 to throw ReservationNotPossibleException
         request.setNumberRequested(100);
         request.setDateReceived(new Date());
-        
         inventoryService.makeReservation(request);
     }
     

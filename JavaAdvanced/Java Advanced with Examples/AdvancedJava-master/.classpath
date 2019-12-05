@@ -5,9 +5,9 @@
 	<classpathentry kind="src" path="io/src"/>
 	<classpathentry kind="src" path="jdbc/src"/>
 	<classpathentry kind="src" path="threads/src"/>
-	<classpathentry kind="lib" path="C:/Users/curso/Documents/GitHub/JavaAcademy-CMA/JavaAdvanced/Java Advanced with Examples/libs/commons-dbcp-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/curso/Documents/GitHub/JavaAcademy-CMA/JavaAdvanced/Java Advanced with Examples/libs/mysql-connector-java-8.0.18.jar"/>
-	<classpathentry kind="lib" path="C:/Users/curso/Documents/GitHub/JavaAcademy-CMA/JavaAdvanced/Java Advanced with Examples/libs/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Documents/GitHub/JavaAcademy-CMA/JavaAdvanced/Java Advanced with Examples/libs/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Documents/GitHub/JavaAcademy-CMA/JavaAdvanced/Java Advanced with Examples/libs/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Documents/GitHub/JavaAcademy-CMA/JavaAdvanced/Java Advanced with Examples/libs/commons-pool-1.6.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="jdbc/bin"/>

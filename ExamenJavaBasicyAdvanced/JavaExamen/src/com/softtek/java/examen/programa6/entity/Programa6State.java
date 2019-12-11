@@ -27,7 +27,7 @@ public class Programa6State {
 	
 	@Override
 	public String toString() {
-		return "Programa6State [estado_id=" + estado_id + ", description=" + description + ", shipping_zone_id="
+		return "Estados [estado_id=" + estado_id + ", description=" + description + ", shipping_zone_id="
 				+ shipping_zone_id + "]";
 	}
 	

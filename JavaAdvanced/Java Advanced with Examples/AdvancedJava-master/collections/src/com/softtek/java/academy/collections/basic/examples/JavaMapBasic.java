@@ -19,6 +19,6 @@ public class JavaMapBasic {
 		  namesMap.put("Daisy", "14");
 		  System.out.println();
 		  System.out.println(" Map Elements");
-		  System.out.print("\t" + namesMap);
+		  System.out.print("\t" + namesMap.get("Zara"));
 	}
 }

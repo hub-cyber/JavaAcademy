@@ -1,6 +1,7 @@
 package com.softtek.java.academy.jdbc;
 
 import java.sql.CallableStatement;
+
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;
@@ -43,7 +44,6 @@ public class OrderRepository {
         sql.append("INSERT INTO sales_order (order_id, status_code, "
             + "channel_code, date_created ) ");
         sql.append("VALUES (?, ?, ?, ?)");
-
         Connection connection = DataSourceDatabase.getConnection();
         PreparedStatement preparedStatement = null;
         try {
@@ -54,7 +54,7 @@ public class OrderRepository {
             preparedStatement.setString(2, order.getOrderStatus().getCode());
             preparedStatement.setString(3, order.getSalesChannel().getCode());
             preparedStatement.setDate(4, new Date(order.getCreationDate()
-                .getTime()));
+            		.getTime()));
 
             preparedStatement.executeUpdate();
 

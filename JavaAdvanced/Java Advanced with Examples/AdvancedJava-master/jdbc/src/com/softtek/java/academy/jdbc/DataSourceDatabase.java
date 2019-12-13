@@ -1,6 +1,8 @@
 package com.softtek.java.academy.jdbc;
 
 import java.sql.Connection;
+
+
 import java.sql.SQLException;
 
 import org.apache.commons.dbcp.BasicDataSource;
@@ -17,7 +19,7 @@ public class DataSourceDatabase {
         ds.setUsername("omsdb");
         ds.setPassword("omsdb");
         //ds.setUrl("jdbc:mysql://localhost:3306/omsdb?noAccessToProcedureBodies=true");
-        ds.setUrl("jdbc:mysql://localhost:3306/omsdb?noAccessToProcedureBodies=true&serverTimezone=UTC&useSSL=false");
+        ds.setUrl("jdbc:mysql://localhost:3306/omsdb");
     }
 
     private DataSourceDatabase() {

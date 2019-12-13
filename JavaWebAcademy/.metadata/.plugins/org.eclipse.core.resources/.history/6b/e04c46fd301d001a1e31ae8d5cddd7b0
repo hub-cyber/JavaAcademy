@@ -1,0 +1,6 @@
+package como.softtek.academia.web.model;
+
+public class City {
+	private long id;
+	private String description;
+}

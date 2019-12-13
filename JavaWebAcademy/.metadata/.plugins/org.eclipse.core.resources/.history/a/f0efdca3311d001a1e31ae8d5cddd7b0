@@ -1,0 +1,17 @@
+package como.softtek.academia.web.model;
+
+public class City {
+	private Integer id;
+	private String description;
+	private State state_id;
+	
+	
+
+	
+	@Override
+	public String toString() {
+		return "City [id=" + id + ", description=" + description + ", state_id=" + state_id + "]";
+	}
+	
+	
+}

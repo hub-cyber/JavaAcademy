@@ -1,0 +1,5 @@
+package com.softtek.academiaweb.config;
+
+public class ConexxionData {
+
+}

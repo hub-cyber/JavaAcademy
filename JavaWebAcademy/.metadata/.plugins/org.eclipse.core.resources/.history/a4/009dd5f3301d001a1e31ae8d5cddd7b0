@@ -1,0 +1,6 @@
+package como.softtek.academia.web.model;
+
+public class State {
+	private Integer id;
+	private String description;
+}

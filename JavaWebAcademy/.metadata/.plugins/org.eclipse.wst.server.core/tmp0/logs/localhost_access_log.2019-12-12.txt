@@ -1,0 +1,10 @@
+127.0.0.1 - - [12/Dec/2019:16:34:39 -0600] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:16:34:40 -0600] "GET /AcdemyJavaWeb/index.jsp HTTP/1.1" 200 57
+127.0.0.1 - - [12/Dec/2019:16:58:42 -0600] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:16:58:42 -0600] "GET /AcdemyJavaWeb/index.jsp HTTP/1.1" 200 57
+127.0.0.1 - - [12/Dec/2019:17:39:57 -0600] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:39:58 -0600] "GET /AcdemyJavaWeb/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:39:58 -0600] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:41:20 -0600] "GET /AcdemyJavaWeb/states/stateList.jsp HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:42:04 -0600] "GET /AcdemyJavaWeb/States/StateList.jsp HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:44:16 -0600] "GET /AcdemyJavaWeb/States/StatesList.jsp HTTP/1.1" 200 256

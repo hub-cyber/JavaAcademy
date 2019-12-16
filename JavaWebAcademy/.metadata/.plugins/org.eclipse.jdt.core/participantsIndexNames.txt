@@ -1,5 +1,9 @@
 INDEX VERSION 1.131
-C:\Users\curso\Desktop\JavaWebAcademy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1842015211.index
-\AcdemyJavaWeb\src\main\resources
-C:\Users\curso\Desktop\JavaWebAcademy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3916974445.index
-\AcdemyJavaWeb\src\main\resources
+C:\Users\Usuario\Documents\GitHub\JavaAcademy-CMA\JavaWebAcademy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1862545697.index
+\academiaweb\src\main\resources
+C:\Users\Usuario\Documents\GitHub\JavaAcademy-CMA\JavaWebAcademy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3916974445.index
+\AcdemyJavaWeb\Java
+C:\Users\Usuario\Documents\GitHub\JavaAcademy-CMA\JavaWebAcademy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3375377894.index
+\academiaweb\src\main\resources
+C:\Users\Usuario\Documents\GitHub\JavaAcademy-CMA\JavaWebAcademy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1842015211.index
+\AcdemyJavaWeb\Java

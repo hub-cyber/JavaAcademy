@@ -14,14 +14,15 @@ import como.softtek.academia.web.model.State;
 public class StateController {
 	
 	public static void main(String[] args) throws SQLException {
-	
+	StateController obj= new StateController();
+	 System.out.println(obj.getState()); 
 	}
 	
 	public List<State> getState() throws SQLException{
 		// nueva instancia de conexxion 
 		Connection conn = ConexxionData.getConnection();
 		//query para obtener los estados 
-		String sql= "Select*from";
+		String sql= "Select* from state";
 		//lista final de todos los resultados de estado
 		List<State> stateDB = new ArrayList<State>();
 		//instrancia de statament 
@@ -35,8 +36,9 @@ public class StateController {
 		while (rs.next()) {
 			State estados = new State();
 			estados.setId(rs.getInt("state_id"));
-			estados.setDescription(rs.getString("descriptcion"));
+			estados.setDescription(rs.getString("description"));
 			stateDB.add(estados);
+			
 			
 		}
 		
